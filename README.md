@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mixcoatl46
-- 👀 I’m interested in Videogames and Coding
+- 👀 I’m interested in videogames and coding
 - 🌱 I’m currently learning programing and mathematics
 
 <!---
